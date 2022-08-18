@@ -127,6 +127,7 @@ a {
 }
 .Stitle .plus {
   font-size: 12px;
+  cursor: pointer;
 }
 
 /* header */
@@ -148,26 +149,26 @@ header .Hlnb nav .flex {
 header .Hlnb nav .flex li {
   padding: 0px 10px;
 }
-header .Hnav {
-  margin-top: 10px;
-}
 header .Hnav .flex {
   position: relative;
 }
 header .Hnav .flex li {
-  padding: 0px 0px 10px;
   flex: 1;
-  border-bottom: 2px solid #e7e7ec;
-}
-header .Hnav .flex li:hover {
-  border-bottom: 2px solid #ff4800;
 }
 
 header .Hnav .flex li a {
+  padding: 10px 0px 10px;
+  height: 100%;
   color: #191919;
   font-size: 15px;
   font-weight: 500;
   text-align: center;
+  border-bottom: 2px solid #e7e7ec;
+  box-sizing: border-box;
+}
+
+header .Hnav .flex li:hover a {
+  border-bottom: 2px solid #ff4800;
 }
 
 /* footer */
