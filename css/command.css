@@ -127,6 +127,7 @@ a {
 }
 .Stitle .plus {
   font-size: 12px;
+  cursor: pointer;
 }
 
 /* header */
