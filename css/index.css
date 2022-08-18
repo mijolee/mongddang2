@@ -236,6 +236,14 @@ footer .attention, footer .copyright {
   font-size: 12px;
 }
 
+.visual {
+  width: 100%;
+}
+
+.visual a img {
+  width: 100%;
+}
+
 .quick .flex {
   flex-wrap: wrap;
   justify-content: space-between;
