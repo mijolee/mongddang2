@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #767676;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_6636" data-name="그룹 6636" transform="translate(-16 -239)">
+    <g id="타원_160" data-name="타원 160" class="cls-1" transform="translate(16 239)">
+      <circle class="cls-3" cx="21" cy="21" r="21"/>
+      <circle class="cls-4" cx="21" cy="21" r="20.5"/>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" class="cls-2" d="M10.239,9.7l.479-3.12H7.724V4.553A1.56,1.56,0,0,1,9.483,2.868h1.361V.211A16.6,16.6,0,0,0,8.428,0C5.962,0,4.35,1.495,4.35,4.2V6.578H1.609V9.7H4.35v7.543H7.724V9.7Z" transform="translate(30.773 251.379)"/>
+  </g>
+</svg>

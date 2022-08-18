@@ -1,0 +1,12 @@
+@import 'command.scss';
+
+.quick{
+    .flex { 
+
+        flex-wrap: wrap; 
+        justify-content: space-between;
+
+        li  { padding: 10px 0px; width: 25%; text-align: center; }
+        li span { display:block; color:$title-color; font-size: 12px; }
+    }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #767676;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_6635" data-name="그룹 6635" transform="translate(-68 -239)">
+    <g id="타원_159" data-name="타원 159" class="cls-1" transform="translate(68 239)">
+      <circle class="cls-3" cx="21" cy="21" r="21"/>
+      <circle class="cls-4" cx="21" cy="21" r="20.5"/>
+    </g>
+    <g id="Icon_ionic-logo-instagram" data-name="Icon ionic-logo-instagram" transform="translate(75.76 246.76)">
+      <path id="패스_398" data-name="패스 398" class="cls-2" d="M16.881,5.957A3.652,3.652,0,0,1,20.523,9.6v7.283a3.652,3.652,0,0,1-3.642,3.642H9.6a3.652,3.652,0,0,1-3.642-3.642V9.6A3.652,3.652,0,0,1,9.6,5.957h7.283m0-1.457H9.6A5.113,5.113,0,0,0,4.5,9.6v7.283a5.113,5.113,0,0,0,5.1,5.1h7.283a5.113,5.113,0,0,0,5.1-5.1V9.6a5.113,5.113,0,0,0-5.1-5.1Z"/>
+      <path id="패스_399" data-name="패스 399" class="cls-2" d="M24.717,11.185a1.092,1.092,0,1,1,1.092-1.092A1.09,1.09,0,0,1,24.717,11.185Z" transform="translate(-6.744 -1.587)"/>
+      <path id="패스_400" data-name="패스 400" class="cls-2" d="M15.62,12.707a2.913,2.913,0,1,1-2.913,2.913,2.916,2.916,0,0,1,2.913-2.913m0-1.457a4.37,4.37,0,1,0,4.37,4.37,4.371,4.371,0,0,0-4.37-4.37Z" transform="translate(-2.38 -2.38)"/>
+    </g>
+  </g>
+</svg>

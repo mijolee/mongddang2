@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 배경컬러 */
+/* 텍스트 컬러 */
+.bg_gray {
+  background-color: #F8F8FA;
+}
+
+.txt_main {
+  color: #191919;
+}
+
+.txt_con {
+  color: #767676;
+}/*# sourceMappingURL=color.css.map */

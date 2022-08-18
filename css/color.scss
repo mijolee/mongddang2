@@ -1,0 +1,18 @@
+
+/* 배경컬러 */
+$bg_gray :#F8F8FA;
+
+/* 텍스트 컬러 */
+$title-color:#191919;
+$nomal-color:#767676;
+
+$point-color:#ff4800;
+
+.bg_gray { 
+    background:{
+        color:$bg_gray;
+    }; 
+}
+
+.txt_main { color:$title-color; }
+.txt_con { color:$nomal-color; }

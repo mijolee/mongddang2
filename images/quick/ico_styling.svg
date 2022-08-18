@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #f8f8fa;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke: #ff4800;
+        stroke-linecap: round;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_3752" data-name="사각형 3752" class="cls-1" width="22.772" height="25.117"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_10027" data-name="그룹 10027" transform="translate(-11437 -1290)">
+    <g id="그룹_10026" data-name="그룹 10026" transform="translate(11413 975)">
+      <rect id="사각형_3768" data-name="사각형 3768" class="cls-2" width="46" height="46" rx="12" transform="translate(24 315)"/>
+    </g>
+    <g id="그룹_10009" data-name="그룹 10009" transform="translate(11448.192 1300)">
+      <g id="그룹_10008" data-name="그룹 10008" class="cls-3" transform="translate(0 0)">
+        <rect id="사각형_3751" data-name="사각형 3751" class="cls-4" width="15.485" height="7.357" rx="2" transform="translate(4.327 0.807)"/>
+        <path id="패스_5636" data-name="패스 5636" class="cls-5" d="M11.559,23.2h0a2.152,2.152,0,0,1-2.153-2.153V14.585h4.305v6.458A2.152,2.152,0,0,1,11.559,23.2Z" transform="translate(0.718 1.114)"/>
+        <path id="패스_5637" data-name="패스 5637" class="cls-6" d="M18.941,3.585h1.615a.538.538,0,0,1,.538.538v6.565a.539.539,0,0,1-.422.525l-8.843,1.963a.539.539,0,0,0-.422.525v1.723" transform="translate(0.871 0.274)"/>
+        <path id="패스_5638" data-name="패스 5638" class="cls-7" d="M9.267,10.382a1.7,1.7,0,0,1-1.531.686.991.991,0,0,0-1.025.805v1.7a1.7,1.7,0,0,1-3.407,0V10.6a1.278,1.278,0,0,1-2.556,0V5.485" transform="translate(0.057 0.419)"/>
+      </g>
+    </g>
+  </g>
+</svg>
