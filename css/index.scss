@@ -4,6 +4,8 @@
 .visual a img { width: 100%; } 
 
 .quick{
+
+    img { width: auto; }
     .flex { 
 
         flex-wrap: wrap; 
@@ -12,4 +14,15 @@
         li  { padding: 10px 0px; width: 25%; text-align: center; }
         li span { display:block; color:$title-color; font-size: 12px; }
     }
+}
+
+
+.section { background: #fff; padding-bottom: 20px; }
+.section.mt_8 { margin-top: 8px; }
+
+.Stitle {
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+    .plus { font-size: 12px; cursor: pointer; }    
 }
