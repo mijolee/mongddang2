@@ -73,6 +73,10 @@ a {
   content: "ㆍ";
 }
 
+.pr_0 {
+  padding-right: 0px !important;
+}
+
 /* 상단 핸드폰 bar */
 .phonBar {
   width: 100%;
@@ -174,6 +178,34 @@ a {
 }
 .box_120 .text {
   flex: 2;
+}
+
+.box_220 {
+  display: flex;
+  width: 200%;
+  justify-content: space-between;
+}
+.box_220 li {
+  width: 70%;
+  height: 200px;
+  margin: 0px 10px 10px 0px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.box_220 .text {
+  padding: 10px;
+  font-size: 12px;
+  line-height: 14px;
+}
+.box_220 .text p:first-child {
+  color: #191919;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.auto {
+  overflow: auto;
+  height: 100%;
 }
 
 /* header */

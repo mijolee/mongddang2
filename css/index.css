@@ -73,6 +73,10 @@ a {
   content: "ㆍ";
 }
 
+.pr_0 {
+  padding-right: 0px !important;
+}
+
 /* 상단 핸드폰 bar */
 .phonBar {
   width: 100%;
@@ -174,6 +178,34 @@ a {
 }
 .box_120 .text {
   flex: 2;
+}
+
+.box_220 {
+  display: flex;
+  width: 200%;
+  justify-content: space-between;
+}
+.box_220 li {
+  width: 70%;
+  height: 200px;
+  margin: 0px 10px 10px 0px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.box_220 .text {
+  padding: 10px;
+  font-size: 12px;
+  line-height: 14px;
+}
+.box_220 .text p:first-child {
+  color: #191919;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.auto {
+  overflow: auto;
+  height: 100%;
 }
 
 /* header */
@@ -327,6 +359,42 @@ footer .attention, footer .copyright {
   align-items: center;
 }
 .Stitle .plus {
-  font-size: 12px;
   cursor: pointer;
+}
+.Stitle .plus a {
+  color: #191919;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.bg_yellow_patten {
+  background: url(../images/bg_yellow_patten.png) no-repeat 100%;
+  background-size: 100%;
+}
+.bg_yellow_patten .Stitle .plus {
+  position: relative;
+  top: 0px;
+  right: 16px;
+}
+
+.bg_yellow_patten .command_box {
+  width: 200%;
+}
+.bg_yellow_patten .command_box li {
+  padding: 26px 0px;
+  margin-right: 10px;
+  width: 20%;
+  background-color: #fff;
+  border-radius: 5px;
+  text-align: center;
+}
+.bg_yellow_patten .command_box li .img img {
+  width: 56px;
+}
+.bg_yellow_patten .command_box li .text p {
+  padding: 3px;
+  font-size: 14px;
+}
+.bg_yellow_patten .command_box li .text .title {
+  font-size: 16px;
 }/*# sourceMappingURL=index.css.map */
